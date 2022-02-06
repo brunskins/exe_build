@@ -7,8 +7,8 @@ then select which file you want to convert to an exe (must be a python file)
 
 the completed exe will be located where the exe builder file is located in the dist folder
 
-***note the exe wont be made if the path to the exe or the exe file name has any spaces in it so purge spaces before hand ***
+**note the exe won't be made if the path to the exe or the exe file name has any spaces in it so purge spaces before hand** 
 
-***note you will need to have pyinstaller installed***
+**note you will need to have pyinstaller installed**
 
 made with pysimplegui pyinstaller and easygui
